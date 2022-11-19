@@ -1,1 +1,2 @@
 Hi i am writing to check the file status in the  git repository.
+this is to update for retriving data from doc
